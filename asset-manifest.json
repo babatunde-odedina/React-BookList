@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-BookList/static/css/main.d110cbca.chunk.css",
+    "main.js": "/React-BookList/static/js/main.657fec02.chunk.js",
+    "main.js.map": "/React-BookList/static/js/main.657fec02.chunk.js.map",
+    "runtime-main.js": "/React-BookList/static/js/runtime-main.9bc6c27d.js",
+    "runtime-main.js.map": "/React-BookList/static/js/runtime-main.9bc6c27d.js.map",
+    "static/js/2.4e1bf27c.chunk.js": "/React-BookList/static/js/2.4e1bf27c.chunk.js",
+    "static/js/2.4e1bf27c.chunk.js.map": "/React-BookList/static/js/2.4e1bf27c.chunk.js.map",
+    "index.html": "/React-BookList/index.html",
+    "static/css/main.d110cbca.chunk.css.map": "/React-BookList/static/css/main.d110cbca.chunk.css.map",
+    "static/js/2.4e1bf27c.chunk.js.LICENSE.txt": "/React-BookList/static/js/2.4e1bf27c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bc6c27d.js",
+    "static/js/2.4e1bf27c.chunk.js",
+    "static/css/main.d110cbca.chunk.css",
+    "static/js/main.657fec02.chunk.js"
+  ]
+}
